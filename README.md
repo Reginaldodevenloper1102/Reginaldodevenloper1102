@@ -6,9 +6,8 @@
 - 🌱 Atualmente estou fazendo Cursos de varias techs.
 - 💞️ Esporte e Musica.
 - 📫 Meu Contato ,11996060327
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
 
-<!---
-Reginaldodevenloper1102/Reginaldodevenloper1102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[Currículo.pdf](https://github.com/Reginaldodevenloper1102/Reginaldodevenloper1102/files/9310823/Curriculo.pdf)
+          
+          
