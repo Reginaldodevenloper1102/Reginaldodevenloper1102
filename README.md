@@ -1,7 +1,7 @@
 # Olá! Sou Reginaldo Amorim
                      
-- 👋 Hoje eu estou em busca de oportunidades FullStack.
-- 👀 Estudando Pós graduação em Desenvolvimento Java e PHP.
+- 👋  Engenheiro Civil,pós graduado e Estruturas de concreto armado e fundações e BIM(TECNOLOGIA DA INFORNAÇÃO DA CONSTRUÇÃO) Desenvolvedor FullStack.
+- 👀  Pós graduação em Desenvolvimento Java e PHP.
 - 🌱 Atualmente estou fazendo Cursos de varias techs.
 - 💞️ Esporte e Musica.
 - 📫 Meu Contato ,11996060327
