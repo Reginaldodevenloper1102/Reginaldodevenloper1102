@@ -1,6 +1,6 @@
 # Olá! Sou Reginaldo Amorim
                      
-- 👋  Engenheiro Civil,Pós graduado e Estruturas de concreto armado e fundações e BIM(TECNOLOGIA DA INFORNAÇÃO DA CONSTRUÇÃO) Desenvolvedor FullStack.
+- 👋  Engenheiro Civil,Pós graduado em Estruturas de concreto armado e fundações e BIM(TECNOLOGIA DA INFORNAÇÃO DA CONSTRUÇÃO) Desenvolvedor FullStack.
 - 👀  Pós graduação em Desenvolvimento Java e PHP.
 - 🌱 Atualmente estou fazendo Cursos de varias techs.
 - 💞️ Esporte(Skate,Futebol) e Musica(Violinista).
